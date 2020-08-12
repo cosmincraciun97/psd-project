@@ -254,14 +254,13 @@ select {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 .row {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   max-width: 1500px;
-  margin-right: 0;
-  margin-left: 0;
 }
 .image {
   padding: 35px 20px;
